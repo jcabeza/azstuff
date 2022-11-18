@@ -67,7 +67,7 @@ nav:
     - DevOps: ./learn/devops-learn.md
     - Hashicorp: ./learn/hashicorp-learn.md
     - Kubernetes: ./learn/kubernetes-learn.md
-  -🧑‍💻 Team:
+  - 🧑‍💻 Team:
     - Contributors: ./team/contributors.md
     - Follow: ./team/follow.md
   #- POC:
