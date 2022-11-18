@@ -9,7 +9,7 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   favicon:
-  logo:
+  logo: azure-cloud.png
   language: en
   font:
     text: Roboto
@@ -52,3 +52,12 @@ extra:
       link: https://github.com/jcabeza
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/jcabeza_1
+
+nav:
+  - Home: 'index.md'
+  - Guide:
+    - Azure Portals: ./guides/azure-portals.md
+  #- Stuff:
+  #- Learn:
+  #- Team:
+  #- POC:
