@@ -9,6 +9,6 @@
 
 # Microsoft Portals
 
-[Microsoft Portals](https://msportals.io/)
+[https://msportals.io](https://msportals.io)
 
 <!--[![Azure](../assets/deploytoazure.svg?sanitize=true)](https://portal.azure.com)-->
