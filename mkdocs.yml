@@ -55,19 +55,19 @@ extra:
 
 nav:
   - Home: 'index.md'
-  - Guide:
+  - 📒 Guide:
     - Azure portals: ./guides/azure-portals.md
-  - Stuff:
+  - 🛠 Stuff:
     - Status pages: ./stuff/status-pages.md
     - Azure tools: ./stuff/azure-tools.md
     - DevOps tools: ./stuff/devops-tools.md
     - Stencils & icons: ./stuff/stencils-icons.md
-  - Learn:
+  - 🎓 Learn:
     - Azure: ./learn/azure-learn.md
     - DevOps: ./learn/devops-learn.md
     - Hashicorp: ./learn/hashicorp-learn.md
     - Kubernetes: ./learn/kubernetes-learn.md
-  - Team:
+  -🧑‍💻 Team:
     - Contributors: ./team/contributors.md
     - Follow: ./team/follow.md
   #- POC:
