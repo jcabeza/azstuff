@@ -9,7 +9,7 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   favicon: _assets/azure.png
-  logo: _assets/azure.png
+  logo: 🤖 #_assets/azure.png
   language: en
   font:
     text: Roboto
@@ -54,11 +54,11 @@ extra:
       link: https://twitter.com/jcabeza_1
 
 nav:
-  - Home: 'index.md'
+  - 🏠 Home: 'index.md'
   - 📒 Guide:
     - Azure Architecture: ./guides/azure-architecture.md
     - Azure Migration: ./guides/azure-migration.md
-  - 🛠 Stuff:
+  - 🪛 Stuff:
     - Status pages: ./stuff/status-pages.md
     - Azure tools: ./stuff/azure-tools.md
     - DevOps tools: ./stuff/devops-tools.md
@@ -71,5 +71,5 @@ nav:
   - 🧑‍💻 Team:
     - Contributors: ./team/contributors.md
     - Follow: ./team/follow.md
-  - POC:
+  - 🧪 POC:
     - Deploy to Azure: ./poc/deploy-to-azure.md
