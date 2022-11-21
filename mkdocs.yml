@@ -8,8 +8,8 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
-  favicon: _assets/azure-cloud.png
-  logo: _assets/azure-cloud.png
+  favicon: _assets/azure.png
+  logo: _assets/azure.png
   language: en
   font:
     text: Roboto
@@ -56,7 +56,8 @@ extra:
 nav:
   - Home: 'index.md'
   - 📒 Guide:
-    - Azure portals: ./guides/azure-portals.md
+    - Azure Architecture: ./guides/azure-architecture.md
+    - Azure Migration: ./guides/azure-migration.md
   - 🛠 Stuff:
     - Status pages: ./stuff/status-pages.md
     - Azure tools: ./stuff/azure-tools.md
@@ -70,4 +71,5 @@ nav:
   - 🧑‍💻 Team:
     - Contributors: ./team/contributors.md
     - Follow: ./team/follow.md
-  #- POC:
+  - POC:
+    - Deploy to Azure: ./poc/deploy-to-azure.md
