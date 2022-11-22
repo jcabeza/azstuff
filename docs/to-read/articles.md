@@ -14,3 +14,9 @@
 |--|--|--|
 | **Cloud WAF Comparison Part1** | Cloud Providers WAF Comparison | <a href="https://blog.fraktal.fi/cloud-waf-comparison-part-2-e6e2d25f558c"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a>  |
 | **Cloud WAF Comparison Part2** | Cloud Providers WAF Comparison | <a href="https://blog.fraktal.fi/cloud-waf-comparison-part-2-e6e2d25f558c"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a> |
+
+# VPN Gateway or ExpressRoute
+
+| Name | Description | Link |
+|--|--|--|
+| **VPN Gateway or ExpressRoute ?** | Explain By Example: VPN Gateway or ExpressRoute ? | <a href="https://www.linkedin.com/pulse/explain-example-vpn-gateway-expressroute-michelle-xie"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a> |
