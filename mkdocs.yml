@@ -68,8 +68,9 @@ nav:
     - DevOps: ./learn/devops-learn.md
     - Hashicorp: ./learn/hashicorp-learn.md
     - Kubernetes: ./learn/kubernetes-learn.md
+  - 📖 ToRead:
+    - Articles: ./to-read/articles.md
   - 🧑‍💻 Team:
     - Contributors: ./team/contributors.md
-    - Follow: ./team/follow.md
   - 🧪 POC:
     - Deploy to Azure: ./poc/deploy-to-azure.md
