@@ -2,7 +2,7 @@
 
 | Name | Description | Link |
 |--|--|--|
-| **Microsoft Learn** |  | <a href="https://docs.microsoft.com/fr-fr/learn/browse/"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a> |
+| **Microsoft Learn** | n/a | <a href="https://docs.microsoft.com/fr-fr/learn/browse/"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a> |
 | **Microsoft Learning Github** | n/a | <a href="https://github.com/MicrosoftLearning"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a> |
 | **Azure Learning Pathways** | n/a | <a href="www.aka.ms/pathways"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a> |
 | **Microsoft Virtual Training Days** | n/a | <a href="https://mvtd.events.microsoft.com/"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a> |

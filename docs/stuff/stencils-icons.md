@@ -1,4 +1,6 @@
-# Azure Icons
+# Azure Stencils & Icons
+
+## Azure Icons
 
 | Name | Description | Link |
 |--|--|--|
@@ -6,7 +8,7 @@
 | **Azure Icons Set** | n/a | <a href="https://code.benco.io/icon-collection/azure-icons/"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a> |
 | **Azure Architecture Icons** | n/a | <a href="https://docs.microsoft.com/en-us/azure/architecture/icons"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a> |
 
-# Azure Visio Stencils
+## Azure Visio Stencils
 
 | Name | Description | Link |
 |--|--|--|
@@ -15,7 +17,7 @@
 | **Microsoft Integration Stencils Pack for Visio** | n/a | <a href="https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a> |
 | **Cloudockit Stencils** | n/a | <a href="https://www.cloudockit.com/azure-aws-google-cloud-visio-stencils-to-build-your-diagrams/"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a> |
 
-# Global IT infrastructure Stencils
+## Global IT infrastructure Stencils
 
 | Name | Description | Link |
 |--|--|--|

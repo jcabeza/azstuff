@@ -9,7 +9,7 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   favicon: _assets/azure.png
-  logo: 🤖 #_assets/azure.png
+  logo: _assets/cloud.png
   language: en
   font:
     text: Roboto
