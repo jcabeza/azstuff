@@ -6,7 +6,6 @@
 |--|--|--|
 | **Terraform Registry** | Discover Terraform providers that power all of Terraform’s resource types, or find modules for quickly deploying common infrastructure configurations. | <a href="https://registry.terraform.io"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a> |
 | **Azure Quickstart Templates** | Deploy Azure resources through the Azure Resource Manager with community contributed templates to get more done. Deploy, learn, fork, and contribute back. | <a href="https://azure.microsoft.com/en-us/resources/templates"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a> |
-| **Code Sample** | Get started with Microsoft developer tools and technologies. Explore our samples and discover the things you can build. | <a href="ttps://docs.microsoft.com/fr-fr/samples/browse/?products"><img src="https://github.com/jcabeza/azure/blob/main/docs/assets/reshot-icon-link.svg?raw=true" width="50"/></a> |
 
 ## DevOps Tooling List
 
