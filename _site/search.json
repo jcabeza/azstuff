@@ -1,0 +1,30 @@
+[
+  
+    {
+      "title"    : "Azure CLI",
+      "description" : "Azure CLI",
+      "category" : "",
+      "tags"     : "azure, azcli",
+      "url"      : "/blog/2023-01-21-azure-azcli",
+      "date"     : "2023-01-21 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "First Article for Reading",
+      "description" : "First Article for Reading Test",
+      "category" : "",
+      "tags"     : "misc",
+      "url"      : "/blog/2023-01-20-first-article-for-reading",
+      "date"     : "2023-01-20 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Welcome To My Blog",
+      "description" : "Welcome to my first blog",
+      "category" : "",
+      "tags"     : "misc",
+      "url"      : "/blog/2023-01-19-welcome-to-my-blog",
+      "date"     : "2023-01-19 00:00:00 +0100"
+    } 
+  
+]

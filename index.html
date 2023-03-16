@@ -1,0 +1,94 @@
+---
+layout: default
+---
+
+<!-- Title Style -->
+<style>
+    .link, .explanation {display:inline}
+    .link {float: right}
+    .explanation {float: right}
+</style>
+<!-- Title Style -->
+
+<section id="intro">
+    <div class="flex-row-between">
+        <h1> {{ site.greetings }}</h1>
+        <button title="Change theme" id="theme-toggle" onclick="modeSwitcher()">
+            <div></div>
+        </button>
+    </div>
+
+    <!-- {{ site.description }} -->
+ 
+    <div class="bio">
+        <p>
+        <a href="{{ site.url }}{{ site.baseurl }}/guide/"> 📒 Guide </a>
+        <font color="00FF00"> </font>
+        <a href="{{ site.url }}{{ site.baseurl }}/stuff/"> 🪛 Stuff </a>
+        <font color="00FF00">  </font>
+        <a href="{{ site.url }}{{ site.baseurl }}/readme/"> 📖 Readme </a>
+        <font color="00FF00"> </font>
+        <a href="{{ site.url }}{{ site.baseurl }}/learn/"> 🎓 Learn </a>
+        <font color="00FF00">  </font>
+        <a href="{{ site.url }}{{ site.baseurl }}/about/"> 👋 About me </a>
+        <font color="00FF00">  </font>
+        <a href="{{ site.url }}{{ site.baseurl }}/sandbox/"> 🧪 Sandbox </a>
+        <font color="00FF00">  </font>
+        <span class="link"><a href="https://portal.azure.com"> 🔒 Login </a></span> <!-- Go to secure page ? -->
+        </p>
+    </div>
+
+    <!-- <a style="text-align:end" href="404.html"> 🔒 Login </a> -->
+
+    <br>
+
+    <div class="search-article">
+        <label for="search-input" aria-hidden="true">
+            <!-- Magnifier -->
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                stroke="rgba(128,128,128,0.8)" stroke-width="2" stroke-linecap="" stroke-linejoin=""
+                class="feather feather-search">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+        </label>
+
+        <input type="search" id="search-input" placeholder="Find some articles here" aria-label="Search">
+        <ul id="search-results"></ul>
+    </div>
+
+    <br>
+    <!-- <img src="./assets/img/t-rex.png" width="70" height="70"> -->
+    <!-- <img src="./assets/img/azure-banner-2.png" width="1000" height="250"> -->
+    <!-- <img src="./assets/img/t-rex.png" width="140" height="150"> -->
+
+    <!-- <div class="bio">
+        <p>
+        <a href="{{ site.url }}{{ site.baseurl }}/guide/"> 📒 Guide </a>
+        <font color="00FF00">  </font>
+        <a href="{{ site.url }}{{ site.baseurl }}/stuff/"> 🪛 Stuff </a>
+        <font color="00FF00">  </font>
+        <a href="{{ site.url }}{{ site.baseurl }}/learn/"> 🎓 Learn </a>
+        <font color="00FF00">  </font>
+        <a href="{{ site.url }}{{ site.baseurl }}/about/"> 👋 About me </a>
+        <font color="00FF00">  </font>
+        <a href="{{ site.url }}{{ site.baseurl }}/sandbox/"> 🧪 Sandbox </a>
+        </p>
+    </div> -->
+</section>
+
+<!-- InProgress -->
+<h6><center><i><p style="color: #c40101">💤 Deployment of the site in progress...</p></i></center></h6>
+<br><br><br>
+
+<section class="posts" id="Blog">
+    <h2>Posts</h2>
+    <ul>
+        {% for post in site.posts %}
+        <li>
+		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
