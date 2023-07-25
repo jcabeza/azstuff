@@ -4,17 +4,17 @@ layout: default
 
 #### 🌍 Azure Portals
 
-[Azure Public](https://portal.azure.com)
-[Azure Preview](https://preview.portal.azure.com)
-[Azure RC](https://rc.portal.azure.com)
-[Azure Global](https://msportals.io)
+- [Azure Public](https://portal.azure.com)
+- [Azure Preview](https://preview.portal.azure.com)
+- [Azure RC](https://rc.portal.azure.com)
+- [Azure Global](https://msportals.io)
 
 #### 🩺 Azure Status Pages
 
-[Azure Status](https://status.azure.com/en-us/status)
-[Azure DevOps Status](https://status.dev.azure.com)
-[Azure Portal Self-diagnostics](https://portal.azure.com/SelfHelp)
-[Azure Speed](https://www.azurespeed.com)
+- [Azure Status](https://status.azure.com/en-us/status)
+- [Azure DevOps Status](https://status.dev.azure.com)
+- [Azure Portal Self-diagnostics](https://portal.azure.com/SelfHelp)
+- [Azure Speed](https://www.azurespeed.com)
 
 
 #### 📒 Azure Guide
@@ -33,43 +33,44 @@ layout: default
 
 #### 🧰 Azure Tools
 
-[Azure Charts](https://azurecharts.com)
-[Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer)
-[Azure Data Studio](https://azure.microsoft.com/en-us/services/developer-tools/data-studio)
-[Azure Resources Explorer (Preview)](https://resources.azure.com)
-[Azure Cloud Shell](https://shell.azure.com)
-[AzAdvertizer](https://www.azadvertizer.net)
-[Azure IP Ranges and Service Tags](https://www.microsoft.com/en-us/download/details.aspx?id=56519)
-[Azure VMs Price](https://azureprice.net)
+- [Azure Charts](https://azurecharts.com)
+- [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer)
+- [Azure Data Studio](https://azure.microsoft.com/en-us/services/developer-tools/data-studio)
+- [Azure Resources Explorer (Preview)](https://resources.azure.com)
+- [Azure Cloud Shell](https://shell.azure.com)
+- [AzAdvertizer](https://www.azadvertizer.net)
+- [Azure IP Ranges and Service Tags](https://www.microsoft.com/en-us/download/details.aspx?id=56519)
+- [Azure VMs Price](https://azureprice.net)
 
 #### 🧰 DevOps Tools
 
-[Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install)
-[PowerShell on Linux](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-linux?view=powershell-7.2)
-[Azure CLI on Linux](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt)
-[Oh My Zsh](https://ohmyz.sh)
-[Oh My Posh](https://www.ohmyposh.dev)
-[Visual Studio Code](https://code.visualstudio.com)
-[Visual Studio Code Dev (browser)](https://vscode.dev)
-[Browse code samples](https://learn.microsoft.com/en-us/samples/browse)
-[Terraform] https://www.terraform.io)
-[Terraform Registry](https://registry.terraform.io)
-[Claranet Tfwrapper](https://github.com/claranet/terraform-wrapper)
-[Git Command Explorer](https://gitexplorer.com)
+- [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install)
+- [PowerShell on Linux](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-linux?view=powershell-7.2)
+- [Azure CLI on Linux](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt)
+- [Oh My Zsh](https://ohmyz.sh)
+- [Oh My Posh](https://www.ohmyposh.dev)
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Visual Studio Code Dev (browser)](https://vscode.dev)
+- [Browse code samples](https://learn.microsoft.com/en-us/samples/browse)
+- [Terraform] https://www.terraform.io)
+- [Terraform Registry](https://registry.terraform.io)
+- [Claranet Tfwrapper](https://github.com/claranet/terraform-wrapper)
+- [Git Command Explorer](https://gitexplorer.com)
 
 #### 🧰 Misc Tools
-[Visual Subnet Calculator Online](https://www.davidc.net/sites/default/subnets/subnets.html)
-[David Summers - Azure Visio Stencils Pack](https://github.com/David-Summers/Azure-Design)
-[Azure Cheat Sheet (PNG, SVG, PDF)](https://github.com/milanm/azure-cheat-sheet)
-[Dig Web Interface](https://digwebinterface.com)
-[Online Calculator for Uptime and Downtime with SLA](https://uptime.is)
-[Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org)
-[InfraCost (Cloud Cost Estimator)](https://www.infracost.io)
-[Windows Package Manager CLI (aka winget)](https://github.com/microsoft/winget-cli)
-[Windows 11 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines)
+
+- [Visual Subnet Calculator Online](https://www.davidc.net/sites/default/subnets/subnets.html)
+- [David Summers - Azure Visio Stencils Pack](https://github.com/David-Summers/Azure-Design)
+- [Azure Cheat Sheet (PNG, SVG, PDF)](https://github.com/milanm/azure-cheat-sheet)
+- [Dig Web Interface](https://digwebinterface.com)
+- [Online Calculator for Uptime and Downtime with SLA](https://uptime.is)
+- [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org)
+- [InfraCost (Cloud Cost Estimator)](https://www.infracost.io)
+- [Windows Package Manager CLI (aka winget)](https://github.com/microsoft/winget-cli)
+- [Windows 11 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines)
 - [Wireshark](https://www.wireshark.org)
 
-#### 🦾 Learning
+#### 🎓 Learning
 
 > Azure Learn
 
@@ -106,11 +107,6 @@ layout: default
     <ul class="text">
         <!-- Item 1 -->
         <li>
-            <div class="flag-wrapper">
-              <h6>Sandbox</h6>
-            </div>
-            <br>
-            <br>
             <div class="desc">
               <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjcabeza%2Fazure%2Fdocs%2Fmiscs%2Fmain%2Fazuredeploy.json" target="_blank">
               <img src="https://aka.ms/deploytoazurebutton"></a>
@@ -121,14 +117,14 @@ layout: default
 #### 🧪 <span style="color: #fb4141"> To be tested </span>
 
 <!-- To be tested...
-<a href="https://docs.microsoft.com/en-us/azure/architecture/browse" target="_top">Azure Architectures (visio links)</a> : Azure stencil collection for Visio.</br>
-<a href="https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio" target="_top">Microsoft Integration Stencils Pack for Visio</a> : Azure stencil collection for Visio.</br>
-<a href="https://www.cloudockit.com/azure-aws-google-cloud-visio-stencils-to-build-your-diagrams" target="_top">Cloudockit Stencils</a> : Azure stencil collection for Visio.</br>
-<a href="https://github.com/bhdicaire/visioStencils" target="_top">2700 Visio Stencils</a> : 2,700 visio 🎨 shapes, stencils, symbols, and icons collection to visually represent IT infrastructure.</br>
-<a href="http://www.visiocafe.com/index.htm" target="_top">Visio Cafe</a> : VisioCafe is an independent non-profit web site for the gathering together of IT industry Visio collections.</br>
-<a href="https://swimburger.net/blog/azure/azure-has-a-new-logo-but-where-do-you-download-it-here" target="_top">Azure Logo</a> : Just an Azure Logo site.</br>
-<a href="https://code.benco.io/icon-collection/azure-icons" target="_top">Azure Icons Set</a> : .</br>
-<a href="https://docs.microsoft.com/en-us/azure/architecture/icons" target="_top">Azure Architecture Icons</a> : .</br>
+- [Azure Architectures (visio links)](https://docs.microsoft.com/en-us/azure/architecture/browse)
+- [Microsoft Integration Stencils Pack for Visio](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio)
+- [Cloudockit Stencils Collection](https://www.cloudockit.com/azure-aws-google-cloud-visio-stencils-to-build-your-diagrams)
+- [2700 Visio Stencils for IT](https://github.com/bhdicaire/visioStencils)
+- [Visio Cafe Stencils](http://www.visiocafe.com/index.htm)
+- [Azure Logo](https://swimburger.net/blog/azure/azure-has-a-new-logo-but-where-do-you-download-it-here)
+- [Azure Icons Set](https://code.benco.io/icon-collection/azure-icons)
+- [Azure Architecture Icons](https://docs.microsoft.com/en-us/azure/architecture/icons)
 To be tested -->
 
 ---
