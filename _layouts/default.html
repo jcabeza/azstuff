@@ -1,77 +1,25 @@
----
-layout: compress
----
-
 <!DOCTYPE html>
 <html lang="en">
-
-{% include head.html %}
-
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="icon" type="image/x-icon" href="./_assets/img/favicon.ico">
+  <link rel="stylesheet" href="{{ site.baseurl }}/_assets/css/normalize.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/_assets/css/solo.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/_assets/css/syntax.css">
+  {% if site.font-awesome-include %}<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">{% endif %}
+  <link rel="canonical" href="{{ site.url }}" />
+</head>
 <body>
-  <main>
-    {% include anchor_headings.html html=content anchorBody="#" %}
-  </main>
-
-  <script>
-    function setTheme(theme) {
-      if (theme === "dark") {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        window.localStorage.setItem('theme', 'dark');
-        document.getElementById("theme-toggle").classList.add('sun');
-        document.getElementById("theme-toggle").classList.remove('moon');
-      } else {
-        document.documentElement.setAttribute('data-theme', 'light');
-        window.localStorage.setItem('theme', 'light');
-        document.getElementById("theme-toggle").classList.add('moon');
-        document.getElementById("theme-toggle").classList.remove('sun');
-      }
-    }
-
-    let theme = localStorage.getItem('theme');
-
-    theme = theme || (window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light' : 'light');
-
-    setTheme(theme);
-
-    function modeSwitcher() {
-      let currentMode = document.documentElement.getAttribute('data-theme');
-
-      if (currentMode === "dark") {
-        setTheme('light');
-      } else {
-        setTheme('dark');
-      }
-    }
-  </script>
-
+  <article>
+   <div class="container">
+     <!-- <h1><a href="./">{{ site.tag_text }}</a></h1> -->
+     <h1>{{ site.tag_text }}</h1>
+     {{ content }}
+    </div>
+  </article>
 </body>
-
-<footer class="social-footer">
-  <div class="social-footer-icons">
-    <a href="https://github.com/jcabeza" title="Github profile" target="_blank"
-      rel="noopener noreferrer"><i class="fa fa-github" aria-hidden="true"></i></a>
-    <a>  </a>
-    <a href="{{site.url}}{{ site.baseurl }}/atom.xml" title="Feed RSS" target="_blank" rel="noopener noreferrer"><i
-        class="fa fa-rss" aria-hidden="true"></i></a>
-    <a>  </a>
-    <a href="https://github.com/DavideBri/Gesko" title="Browse the code" target="_blank" rel="noopener noreferrer"><i
-        class="fa fa-code" aria-hidden="true"></i></a>
-  </div>
-</footer>
-
-{% if page.url == '/' %}
-  <script src="{{ site.url }}{{ site.baseurl }}/assets/js/simple-jekyll-search.js"></script>
-  <script>
-    var sjs = SimpleJekyllSearch({
-      searchInput: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('search-results'),
-		      json: '{{ site.url }}{{ site.baseurl }}/search.json',
-      searchResultTemplate: '<li><a href="{url}" title="{description}">{title}</a></li>',
-      noResultsText: 'No results found..',
-      limit: 10,
-      fuzzy: true,
-    })
-  </script>
-  {% endif %}
-
 </html>
