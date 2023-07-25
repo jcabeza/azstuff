@@ -131,3 +131,7 @@ To be tested -->
 
 <!-- <img src="./img/awesome-links.png" alt="Awesome Links" width="50" height="50"> -->
 <p align="center"> AzStuff - Developed with Love 💙 </p>
+<p align="center">
+ ❤️ <a href="https://jcabeza.github.io/Awesome-Links)">Awesome Links</a>
+ 💜 <a href="https://jcabeza.github.io/Privacy)">Privacy Stuff</a>
+</p>
