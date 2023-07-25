@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### 🌍 Guide
+#### 📒 Guide
 
 - [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework)
 - [Firefox](https://www.mozilla.org/fr/firefox)
