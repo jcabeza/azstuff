@@ -2,31 +2,21 @@
 layout: default
 ---
 
+<h6>Hello ?</h6>
+
 #### 📒 Guide
 
 - [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework)
-- [Firefox](https://www.mozilla.org/fr/firefox)
-- [Firefox Profile](https://ffprofile.com/#form0)
-
-<section>
-    <ul class="text">
-        <!-- Item 1 -->
-        <li>
-            <div class="flag-wrapper">
-              <h6>Cloud Adoption Framework</h6>
-            </div>
-            <div class="desc">
-              The Cloud Adoption Framework is the One Microsoft approach to cloud adoption in Azure,consolidating,
-              and sharing best practices from Microsoft employees, partners, and customers.
-              The framework gives customers a set of tools, guidance, and narratives that help shape technology,
-              business, and people strategies for driving desired business outcomes during their adoption effort.
-              This guidance aligns to the following phases of the cloud adoption lifecycle, like Strategy,Plan, Ready,
-              Migrate, Innovate, Govern, and Manage.</br>
-              <a href="" target="_top">Cloud Adoption Framework</a>
-            </div>
-        </li>
-    </ul>
-</section>
+- [Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/architecture/framework)
+- [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture)
+- [Microsoft Cybersecurity Reference Architectures](https://learn.microsoft.com/fr-fr/security/cybersecurity-reference-architecture/mcra)
+- [Azure Migration Center](https://azure.microsoft.com/en-us/migration/migration-journey)
+- [Azure Database Migration Guides](https://learn.microsoft.com/en-us/data-migration)
+- [Migration de Datacenter vers Azure (boite à outils)](https://www.linkedin.com/pulse/migration-de-datacenter-vers-azure-la-boite-%C3%A0-outils-quastana)
+- [Public Cloud Services Comparison](https://comparecloud.in)
+- [Service Level Agreements (SLA)](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services?lang=1)
+- [Public Cloud Services Comparison](https://comparecloud.in)
+<h6>- [Public Cloud Services Comparison](https://comparecloud.in)</h6>
 
 #### 🌍 Search
 
@@ -34,7 +24,7 @@ layout: default
 
 #### 💻 Linux
 
-#### 🦾 DevOps
+#### 🦾 Learning
 
 - [Windows Subsystem for Linux (WSL2)](https://docs.microsoft.com/fr-fr/windows/wsl/install-win10) 🔥
 - [WSL / ZSH Terminal Environment (Readme)](https://fcbrossard.net/blog/wsl-ubuntu-zsh-hyper-terminal) 🔥
@@ -79,6 +69,35 @@ layout: default
 #### 📖 Ebooks, Kindle & reMarkable
 
 #### 😜 Funny
+
+#### 🦾 Learning
+
+Azure Learn
+
+- [Microsoft Learn](https://learn.microsoft.com/en-us/training)
+- [Microsoft Learn Github](https://github.com/MicrosoftLearning)
+- [Microsoft Training Gallery](https://partner.microsoft.com/en-us/training)
+- [Azure Learning Pathways](https://learning-pathways.co.uk)
+- [Azure DevOps Labs](https://azuredevopslabs.com)
+- [Microsoft Virtual Training Days & Events](https://events.microsoft.com/en-us)
+- [Microsoft Experiences](https://experiences.microsoft.fr/calendrier-formations)
+- [Microsoft Partner Training France](https://msit.powerbi.com/view?r=eyJrIjoiMjY1Njk3YjAtN2E5MC00NDIzLTg5MmEtYzAzYzBlMDYxZWY3IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9&pageName=ReportSection)
+- [Pluralsight (Pay)](https://www.pluralsight.com)
+- [A Cloud Guru (Pay)](https://acloudguru.com)
+
+Misc Learn
+
+- [Kubernetes Learning Path](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path_Version%202.0.pdf)
+- [Wild-West Kubernetes Game (deprecated)](https://github.com/gshipley/wild-west-kubernetes)
+- [HashiCorp Terraform for Azure](https://developer.hashicorp.com/terraform/tutorials/azure-get-started)
+- [Katacoda (deprecated)](https://www.katacoda.com)
+- [HashiCorp Vault (Get Started)](https://developer.hashicorp.com/vault/tutorials/getting-started)
+- [DevDocs](https://devdocs.io)
+- [A Cloud Guru (Pay)](https://acloudguru.com)
+
+#### 🦾 Certifications
+
+- [Microsoft Certifications](https://learn.microsoft.com/en-us/certifications)
 
 #### 🧪 <span style="color: #fb4141"> To be tested </span>
 
