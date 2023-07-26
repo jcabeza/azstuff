@@ -103,17 +103,9 @@ layout: default
 
 #### 🧪 Sandbox (test)
 
-<section>
-    <!-- <ul class="text"> -->
-        <!-- Item 1 -->
-        <li>
-            <div class="desc">
-              <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjcabeza%2Fazure%2Fdocs%2Fmiscs%2Fmain%2Fazuredeploy.json" target="_blank">
-              <img src="https://aka.ms/deploytoazurebutton"></a>
-            </div>
-        </li>
-    <!-- </ul> -->
-</section>
+<p align="center">
+    <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjcabeza%2Fazure%2Fdocs%2Fmiscs%2Fmain%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton"></a>
+</p>
 
 #### 🧪 <span style="color: #fb4141"> To be tested </span>
 
