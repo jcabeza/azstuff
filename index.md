@@ -104,7 +104,7 @@ layout: default
 #### 🧪 Sandbox (test)
 
 <section>
-    <ul class="text">
+    <!-- <ul class="text"> -->
         <!-- Item 1 -->
         <li>
             <div class="desc">
@@ -112,7 +112,7 @@ layout: default
               <img src="https://aka.ms/deploytoazurebutton"></a>
             </div>
         </li>
-    </ul>
+    <!-- </ul> -->
 </section>
 
 #### 🧪 <span style="color: #fb4141"> To be tested </span>
