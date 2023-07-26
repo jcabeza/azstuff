@@ -113,6 +113,7 @@ layout: default
             </div>
         </li>
     </ul>
+</section>
 
 #### 🧪 <span style="color: #fb4141"> To be tested </span>
 
