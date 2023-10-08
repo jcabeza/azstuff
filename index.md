@@ -16,7 +16,6 @@ layout: default
 - [Azure Portal Self-diagnostics](https://portal.azure.com/SelfHelp)
 - [Azure Speed](https://www.azurespeed.com)
 
-
 #### 📒 Azure Guide
 
 - [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework)
