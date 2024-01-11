@@ -8,6 +8,7 @@ layout: default
 - [Azure Preview](https://preview.portal.azure.com)
 - [Azure RC](https://rc.portal.azure.com)
 - [Azure Global](https://msportals.io)
+- [Azure DevOps](https://dev.azure.com)
 
 #### 🩺 Azure Status Pages
 
@@ -28,7 +29,11 @@ layout: default
 - [Public Cloud Services Comparison](https://comparecloud.in)
 - [Service Level Agreements (SLA)](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services?lang=1)
 - [Public Cloud Services Comparison](https://comparecloud.in)
-- [Public Cloud Services Comparison](https://comparecloud.in)
+- [Load Balancing Decision Tree](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview#decision-tree-for-load-balancing-in-azure)
+- [Private Endpoint DNS Zones](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns)
+- [Network topology and connectivity](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/network-topology-and-connectivity)
+- [Compute Service Decision Tree](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
+- [Data Store Decision Tree](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree)
 
 #### 🧰 Azure Tools
 
@@ -40,6 +45,7 @@ layout: default
 - [AzAdvertizer](https://www.azadvertizer.net)
 - [Azure IP Ranges and Service Tags](https://www.microsoft.com/en-us/download/details.aspx?id=56519)
 - [Azure VMs Price](https://azureprice.net)
+- [Finops Toolkit](https://microsoft.github.io/finops-toolkit)
 
 #### 🧰 DevOps Tools
 
@@ -51,10 +57,12 @@ layout: default
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Visual Studio Code Dev (browser)](https://vscode.dev)
 - [Browse code samples](https://learn.microsoft.com/en-us/samples/browse)
-- [Terraform] https://www.terraform.io)
+- [Terraform](https://www.terraform.io)
 - [Terraform Registry](https://registry.terraform.io)
 - [Claranet Tfwrapper](https://github.com/claranet/terraform-wrapper)
 - [Git Command Explorer](https://gitexplorer.com)
+- [Azure DevOps Demo](https://azuredevopsdemogenerator.azurewebsites.net)
+- [Terraform Plan Visualizer](https://github.com/matthieupetite/terraform-plan-visualizer-with-rover)
 
 #### 🧰 Misc Tools
 
@@ -67,6 +75,7 @@ layout: default
 - [InfraCost (Cloud Cost Estimator)](https://www.infracost.io)
 - [Windows Package Manager CLI (aka winget)](https://github.com/microsoft/winget-cli)
 - [Windows 11 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines)
+- [Azure IP Address Management](https://azure.github.io/ipam/#/)
 - [Wireshark](https://www.wireshark.org)
 
 #### 🎓 Learning
