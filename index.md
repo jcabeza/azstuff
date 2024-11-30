@@ -67,8 +67,11 @@ layout: default
 #### 🧰 Misc Tools
 
 - [Visual Subnet Calculator Online](https://www.davidc.net/sites/default/subnets/subnets.html)
+- [Azure Logo](https://swimburger.net/blog/azure/azure-has-a-new-logo-but-where-do-you-download-it-here)
 - [David Summers - Azure Visio Stencils Pack](https://github.com/David-Summers/Azure-Design)
+- [Azure Architecture Icons](https://docs.microsoft.com/en-us/azure/architecture/icons)
 - [Azure Cheat Sheet (PNG, SVG, PDF)](https://github.com/milanm/azure-cheat-sheet)
+- [Azure Icons Set](https://code.benco.io/icon-collection/azure-icons)
 - [Dig Web Interface](https://digwebinterface.com)
 - [Online Calculator for Uptime and Downtime with SLA](https://uptime.is)
 - [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org)
@@ -109,24 +112,11 @@ layout: default
 - [Become Microsoft Certified](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
 - [HashiCorp Terraform Associate (002)](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials)
 
-#### 🧪 Sandbox (test)
+#### 🧪 Sandbox
 
 <p align="center">
     <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjcabeza%2Fazure%2Fdocs%2Fmiscs%2Fmain%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton"></a>
 </p>
-
-#### 🧪 <span style="color: #fb4141"> To be tested </span>
-
-<!-- To be tested...
-- [Azure Architectures (visio links)](https://docs.microsoft.com/en-us/azure/architecture/browse)
-- [Microsoft Integration Stencils Pack for Visio](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio)
-- [Cloudockit Stencils Collection](https://www.cloudockit.com/azure-aws-google-cloud-visio-stencils-to-build-your-diagrams)
-- [2700 Visio Stencils for IT](https://github.com/bhdicaire/visioStencils)
-- [Visio Cafe Stencils](http://www.visiocafe.com/index.htm)
-- [Azure Logo](https://swimburger.net/blog/azure/azure-has-a-new-logo-but-where-do-you-download-it-here)
-- [Azure Icons Set](https://code.benco.io/icon-collection/azure-icons)
-- [Azure Architecture Icons](https://docs.microsoft.com/en-us/azure/architecture/icons)
-To be tested -->
 
 ---
 
