@@ -37,6 +37,7 @@ layout: default
 
 #### 🧰 Azure Tools
 
+- [Cmd.ms](https://cmd.ms)
 - [Azure Charts](https://azurecharts.com)
 - [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer)
 - [Azure Data Studio](https://azure.microsoft.com/en-us/services/developer-tools/data-studio)
