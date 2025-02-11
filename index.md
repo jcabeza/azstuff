@@ -4,7 +4,7 @@ layout: default
 
 ![Large example image](https://www.prodwaregroup.com/wp-content/uploads/2024/04/header-microsoft-azure-ai-2560x1440.jpg)
 
-#### 🌍 Azure Portals
+#### Azure Portals
 
 - [Azure Public](https://portal.azure.com)
 - [Azure Preview](https://preview.portal.azure.com)
@@ -12,14 +12,14 @@ layout: default
 - [Azure Global](https://msportals.io)
 - [Azure DevOps](https://dev.azure.com)
 
-#### 🩺 Azure Status Pages
+#### Azure Status Pages
 
 - [Azure Status](https://status.azure.com/en-us/status)
 - [Azure DevOps Status](https://status.dev.azure.com)
 - [Azure Portal Self-diagnostics](https://portal.azure.com/SelfHelp)
 - [Azure Speed](https://www.azurespeed.com)
 
-#### 📒 Azure Guide
+#### Azure Guide
 
 - [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework)
 - [Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/architecture/framework)
@@ -37,7 +37,7 @@ layout: default
 - [Compute Service Decision Tree](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
 - [Data Store Decision Tree](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-decision-tree)
 
-#### 🧰 Azure Tools
+#### Azure Tools
 
 - [Cmd.ms](https://cmd.ms)
 - [Azure Charts](https://azurecharts.com)
@@ -51,7 +51,7 @@ layout: default
 - [Finops Toolkit](https://microsoft.github.io/finops-toolkit)
 - [Azure Quick Review](https://azure.github.io/azqr)
 
-#### 🧰 DevOps Tools
+#### DevOps Tools
 
 - [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install)
 - [PowerShell on Linux](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-linux?view=powershell-7.2)
@@ -68,7 +68,7 @@ layout: default
 - [Azure DevOps Demo](https://azuredevopsdemogenerator.azurewebsites.net)
 - [Terraform Plan Visualizer](https://github.com/matthieupetite/terraform-plan-visualizer-with-rover)
 
-#### 🧰 Misc Tools
+#### Misc Tools
 
 - [Visual Subnet Calculator Online](https://www.davidc.net/sites/default/subnets/subnets.html)
 - [Azure Logo](https://swimburger.net/blog/azure/azure-has-a-new-logo-but-where-do-you-download-it-here)
@@ -85,7 +85,7 @@ layout: default
 - [Azure IP Address Management](https://azure.github.io/ipam/#/)
 - [Wireshark](https://www.wireshark.org)
 
-#### 🎓 Learning
+#### Learning
 
 > Azure Learn
 
@@ -110,13 +110,13 @@ layout: default
 - [DevDocs](https://devdocs.io)
 - [A Cloud Guru (Pay)](https://acloudguru.com)
 
-#### 🥇 Certifications
+#### Certifications
 
 - [Microsoft Certifications](https://learn.microsoft.com/en-us/certifications)
 - [Become Microsoft Certified](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
 - [HashiCorp Terraform Associate (002)](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials)
 
-#### 🧪 Sandbox
+#### Sandbox
 
 <p align="center">
     <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjcabeza%2Fazure%2Fdocs%2Fmiscs%2Fmain%2Fazuredeploy.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton"></a>
@@ -125,8 +125,4 @@ layout: default
 ---
 
 <!-- <img src="./img/awesome-links.png" alt="Awesome Links" width="50" height="50"> -->
-<p align="center"> AzStuff - Developed with Love 💙 </p>
-<p align="center">
- ❤️ <a href="https://jcabeza.github.io/Awesome-Links">Awesome Links</a>
- 💜 <a href="https://jcabeza.github.io/Privacy">Privacy Stuff</a>
-</p>
+<p align="center"> AzStuff - Developed with Love ❤️ </p>
