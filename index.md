@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: page
 ---
+
+![Large example image](https://www.prodwaregroup.com/wp-content/uploads/2024/04/header-microsoft-azure-ai-2560x1440.jpg)
 
 #### 🌍 Azure Portals
 
