@@ -1,11 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italc,400,400italic,500,700);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap);
 
 html {
-  font: 18px/1.6 'Open Sans', sans-serif;
+  font: 18px/1.6 'Montserrat', sans-serif;
 }
 
 @media (max-width: 325px) {
-  html { font: 17px/1.6 'Open Sans', sans-serif; }
+  html { font: 17px/1.6 'Montserrat', sans-serif; }
 }
 
 body {
