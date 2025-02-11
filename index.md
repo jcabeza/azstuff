@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 ![Large example image](https://www.prodwaregroup.com/wp-content/uploads/2024/04/header-microsoft-azure-ai-2560x1440.jpg)
@@ -49,6 +49,7 @@ layout: page
 - [Azure IP Ranges and Service Tags](https://www.microsoft.com/en-us/download/details.aspx?id=56519)
 - [Azure VMs Price](https://azureprice.net)
 - [Finops Toolkit](https://microsoft.github.io/finops-toolkit)
+- [Azure Quick Review](https://azure.github.io/azqr)
 
 #### 🧰 DevOps Tools
 
