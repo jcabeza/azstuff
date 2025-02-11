@@ -1,7 +1,7 @@
 # Site settings
-title: AzStuff
+title: Azure Stuff
 # Privacy - The simple guide 
-tag_text: AzStuff
+tag_text: Azure Stuff
 description: A responsive single-page website for Azure Stuff
 url: "https://jcabeza.github.io/AzStuff"
 baseurl: "/"
